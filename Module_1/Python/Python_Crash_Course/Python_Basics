@@ -1,0 +1,29 @@
+What is Python?
+
+A: Python is a high level, object oriented, general purpose programming language created by Guido van Roussam.
+
+Why is Python so popular?
+
+A: 1) Beginner Friendly 
+   2) Easy syntax
+   
+Features of Python
+
+1) Simple Language - Easier to learn
+2) Free and Open source
+3) Portability
+4) Extensible and Embeddedable
+5) High level Interpreted
+6) Support large standard libraries
+7) Object Oriented language
+
+Why should you learn python?
+
+General purpose programming language having a wide range of applications namely in field of 
+1) Web Development - Django, Bottle
+2) Mathematical Computations - Numpy, Pandas
+3) Graphical User Interface - Pygame, Panda 3D
+
+Compiled v/s Interpreted
+
+Python is directly interpreted into machine instruction only at run time.
